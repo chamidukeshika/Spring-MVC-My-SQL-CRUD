@@ -1,0 +1,8 @@
+package com.spring_project.store.models;
+
+@Entity
+@Table(name="products")
+
+public class Product {
+
+}
